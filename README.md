@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+> “Tenebrosas fuerzas amenazan un mundo al borde del colapso. En medio de un páramo desolado, se alza un último bastión de esperanza: el Gold Saucer, una ruinosa fortaleza olvidada donde ahora se arremolinan misteriosas fuerzas arcanas, lanzando un grito de desesperado a través de todo el multiverso, en búsca de héroes que acudan en su auxilio” 
 
-You can use the [editor on GitHub](https://github.com/xDaizu/marchingwest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### ¿Responderás a la llamada?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***-"Hmmm... quizá... ¿de qué va esto?"***
 
-### Markdown
+Tradicionalmente, los juegos de rol han sido enriquecedoras experiencias llevadas a cabo por un pequeño grupo cerrado de jugadores que se reunen de forma habitual. Uno de los jugadores actúa como "máster", describiendo el mundo y poniendo desafíos frente al resto de jugadores, que en el papel de héroes (o villanos), lso acometen con arrojo, coraje y... como buenamente pueden.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+¡Imaginaos poder compartir la enriquecedora experiencia del rol con DECENAS de camaradas en la comodidad de vuestro bar favorito! ¡Imaginad no tener que esperar a que todos vuestros amigos *puedan quedar*! Todas vuestras aventuras se desarrollarían en el mismo mundo, y las consecuencias de vuestras decisiones afectarían al resto de jugadores en futuras sesiones. Y ademas tendríais oportunidades de ganar estupendos premios, ¡y hasta cerveza gratis!
 
-```markdown
-Syntax highlighted code block
+### La idea resumida sería una inusual mezcla entre RPG tradicional y MMO-RPG
 
-# Header 1
-## Header 2
-### Header 3
+***-"¿...que es eso de cerveza gratis?"***
 
-- Bulleted
-- List
+¿Que qué *sistema de juego* vamos a utilizar, dices? ¡Excelente pregunta! De forma inicial nos hemos decantado por **[Dragones & Mazmorras 4ª edición](https://www.rantorpotha.com/Content/images/bd/00221-lg.jpg?1.0.2)**. Es un sólido sistema muy basado en el combate táctico en tablero (al estilo Final Fantasy Tactics, X-Com, Fire Emblem o Banner Saga, si conoceis algunos de ellos), con un excelente equilibrio de clases.
 
-1. Numbered
-2. List
+¡No os preocupeis, **no necesitais saber jugar previamente**! ¡Os daremos todo lo necesario para que podais sumergiros en intensas batallas y aprender sobre la marcha!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+***- ...si, si, pero la cerveza…***
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Efectivamente, a partir del Domingo 1 de Abril podréis empezar a participar en nuestro **Early Access**, lo cual os dará la oportunidad de probarlo antes que nadie y dar vuestra opinión al respecto para crear la mejor experiencia posible. A cambio, tendreis acceso a ventajas exclusivas, una vez que el proyecto comience oficialmente.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xDaizu/marchingwest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
